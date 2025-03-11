@@ -1,0 +1,19 @@
+Features:
+	- Shopping list 
+	- Recipe Book
+
+Component:
+App component
+	- Header component: to navigate two features
+	
+Shopping List Components:
+	- Shopping list
+	- Shopping list edit
+	
+Recipe Book Component:
+	- Recipe List
+	- Recipe Item
+	- Recipe Detail
+	
+Model:
+	- Ingridient: inside Shopping List
